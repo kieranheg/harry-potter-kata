@@ -1,6 +1,6 @@
 # Harry Potter Kata #
 
-To try and encourage more slaes of the 5 different Harry Potter books they sell, a bookshop has decided to offer discounts of multiple-book purchases.
+To try and encourage more sales of the 5 different Harry Potter books they sell, a bookshop has decided to offer discounts of multiple-book purchases.
 
 One copy of any of the 5 books costs 8 EUR.
 
