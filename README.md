@@ -20,10 +20,6 @@ Your mission is to write a piece of code to calculate the price of any conceivab
 
 For example, how much does this basket of books cost?
 
-2 copies of the 1st book
-2 copies of the 2nd book
-2 copies of the 3rd book
-1 copy of the 4th book
-1 copy of the 5th book
+2 copies of the 1st book, 2 copies of the 2nd book, 2 copies of the 3rd book, 1 copy of the 4th book, 1 copy of the 5th book.
 
 Answer: 51.60 EUR
